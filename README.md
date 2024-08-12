@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Oi, me chamo [Seu nome aqui] 👋
+# Oi, me chamo Maria Eduarda 👋
 
 ### Sobre mim
 
