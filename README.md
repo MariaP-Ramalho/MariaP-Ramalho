@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Oi, me chamo Maria Eduarda 👋
 
 ### Sobre mim
