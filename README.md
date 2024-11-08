@@ -6,7 +6,7 @@
 
 🎓 Estudo Engenharia de Software na UCSAL
 
-👩‍💻 Atualmente eu trabalho como estagiária de desenvolvimento @ Zentek
+👩‍💻 Atualmente eu trabalho como estagiária @ Walk to Digital
 
 ### Tenho experiência com... 🔧
 
