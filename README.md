@@ -6,7 +6,7 @@
 
 🎓 Estudo Engenharia de Software na UCSAL
 
-👩‍💻 Atualmente eu trabalho como estagiária @ Walk to Digital
+👩‍💻 Atualmente eu trabalho como Desenvolvedora Júnior @ Sudoeste Informatica
 
 ### Tenho experiência com... 🔧
 
