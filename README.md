@@ -2,11 +2,11 @@
 
 ### Sobre mim
 
-💻 Eu sou uma desenvolvedora backend
+💻 Dev Backend
 
-🎓 Estudo Engenharia de Software na UCSAL
+🎓 Engenheira de Software
 
-👩‍💻 Atualmente eu trabalho como Desenvolvedora Júnior @ Sudoeste Informatica
+👩‍💻 Atualmente trabalho como Desenvolvedora Júnior @ Sudoeste Informatica
 
 ### Tenho experiência com... 🔧
 
@@ -41,7 +41,6 @@
 <div>
 <a href = "mailto:eduardapramalho@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/maria-eduarda-pamponet-ramalho-489549218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="https://instagram.com/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
 
